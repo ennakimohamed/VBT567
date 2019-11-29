@@ -1,2 +1,2 @@
 # VBT567
-Voiture avec bras télécommandé
+Voiture avec bras télécommandés
